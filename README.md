@@ -28,14 +28,6 @@ Cada pasta contém os arquivos relacionados à sua respectiva questão.
 
 Representam as entidades principais do sistema, contendo atributos e comportamentos dos objetos.
 
-Exemplos:
-
-* Midia
-* Funcionario
-* Notificador
-* Boleto
-* Armazenador
-
 ## Main
 
 Arquivos responsáveis pela execução e testes do sistema.
